@@ -14,7 +14,7 @@ Welcome to the Amazon Clone project! This repository contains the HTML and CSS c
 
 ## Demo
 
-You can see a live demo of the project [Here](#https://syedzafaryabhaider.github.io/Amazon-Clone/).
+You can see a live demo of the project [Here](https://syedzafaryabhaider.github.io/Amazon-Clone/).
 
 ## Features
 
